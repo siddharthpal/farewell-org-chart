@@ -1,0 +1,11 @@
+name,imageUrl,profileUrl,positionName,id,parentId,size
+Jack Berkowitz,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,http://example.com/employee/profile,"Chief Data Officer ",O-6066,,
+Anuj Agarwal,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,http://example.com/employee/profile,"CTO ",O-6067,O-6066,
+Justo Pastor,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,http://example.com/employee/profile,"CTO ",O-6068,O-6066,
+Aruna,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,http://example.com/employee/profile,"CTO ",O-6069,O-6066,
+Udaya Garikipati,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,http://example.com/employee/profile,"CTO ",O-6070,O-6066,
+Praveen Kommineni,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,http://example.com/employee/profile,"CTO ",O-6071,O-6066,
+Pradeep Vasu,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,http://example.com/employee/profile,Linear Manager,O-6072,O-6066,
+Arpit Mehrotra,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,http://example.com/employee/profile,CEO,O-6073,O-6070,
+Ramya Kathera,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,http://example.com/employee/profile,Head of direction,O-6074,O-6069,
+Saibabu Boddeda,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,http://example.com/employee/profile,Senior sales manager,O-6075,O-6072,
