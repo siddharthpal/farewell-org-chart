@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { render } from 'react-dom';
 import './style.css';
 import { OrgChartComponent } from './OrgChart';
+import { MessageEnvelope } from './MessageEnvelope';
 import * as d3 from 'd3';
 
 const App = props => {
@@ -36,6 +37,7 @@ const App = props => {
         onNodeClick={onNodeClick}
         data={data}
       />
+      <MessageEnvelope />
     </div>
   );
 };
