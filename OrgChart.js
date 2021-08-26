@@ -22,7 +22,7 @@ export const OrgChartComponent = (props, ref) => {
         .container(d3Container.current)
         .data(props.data)
         .nodeWidth(d => 200)
-        .nodeHeight(d => 120)
+        .nodeHeight(d => 80)
         .onNodeClick((d, i, arr) => {
           console.log(d, 'Id of clicked node ');
           props.onNodeClick(d);
@@ -61,7 +61,7 @@ export const OrgChartComponent = (props, ref) => {
                d.data.imageUrl
              }" style="position:absolute;margin-top:-20px;margin-left:${20}px;border-radius:100px;width:40px;height:40px;" />
              
-            <div style="color:#08011E;position:absolute;right:20px;top:17px;font-size:10px;"><i class="fas fa-ellipsis-h"></i></div>
+            <div style="color:#08011E;position:absolute;right:20px;top:17px;font-size:10px;"><i class="fas fa-envelope"></i></div>
 
             <div style="font-size:15px;color:#08011E;margin-left:20px;margin-top:32px"> ${
               d.data.name
