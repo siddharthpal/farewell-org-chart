@@ -24,7 +24,7 @@ const App = props => {
 
   useEffect(() => {
     d3.csv(
-      'https://raw.githubusercontent.com/bumbeishvili/sample-data/main/org.csv'
+      'https://raw.githubusercontent.com/siddharthpal/farewell-org-chart/master/org.csv'
     ).then(data => {
       setData(data);
     });
